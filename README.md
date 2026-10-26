@@ -1,5 +1,8 @@
 # File management for the Genmitsu wireless controller
 
+<img width="2062" height="1788" alt="screenshot-20261026-180049" src="https://github.com/user-attachments/assets/68c71aa5-f535-4fc9-9869-56f6d625a28b" />
+
+
 The Genmitsu wifi controller is an excellent addition to your CNC machine,
 and the iOS and Android apps are great, but the interface for the phone apps leaves a lot to be desired. 
 
