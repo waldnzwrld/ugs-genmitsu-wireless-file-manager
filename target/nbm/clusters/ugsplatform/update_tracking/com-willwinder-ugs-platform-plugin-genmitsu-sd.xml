@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.willwinder.ugs.platform.plugin.genmitsu.sd">
+    <module_version install_time="1793000746041" last="true" origin="installer" specification_version="1.0">
+        <file crc="2773779104" name="config/Modules/com-willwinder-ugs-platform-plugin-genmitsu-sd.xml"/>
+        <file crc="593896148" name="modules/com-willwinder-ugs-platform-plugin-genmitsu-sd.jar"/>
+        <file crc="2427338977" name="update_tracking/com-willwinder-ugs-platform-plugin-genmitsu-sd.xml"/>
+    </module_version>
+</module>
