@@ -113,3 +113,7 @@ this plugin exists.
 - **Tied to UGS internals.** UGS doesn't expose its connection publicly, so the plugin reads it by
   reflection. A future UGS release could break this; you'll get an error saying the connection
   isn't exposed as expected.
+
+## License
+
+[MIT](LICENSE). Use it, change it, and share it however you like.

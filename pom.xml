@@ -16,12 +16,30 @@
     <name>Genmitsu SD Card</name>
     <url>https://github.com/waldnzwrld/ugs-genmitsu-wireless-file-manager</url>
 
+    <!-- Override the GPL-3.0 license and developer inherited from the UGS parent. -->
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Walden Bodtker</name>
+        </developer>
+    </developers>
+
     <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.netbeans.utilities</groupId>
                 <artifactId>nbm-maven-plugin</artifactId>
                 <extensions>true</extensions>
+                <configuration>
+                    <author>Walden Bodtker</author>
+                    <licenseName>MIT License</licenseName>
+                    <licenseFile>${project.basedir}/LICENSE</licenseFile>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
